@@ -9,7 +9,7 @@
 #target, #result{
     font-size: 32px;
     margin-bottom: 15px;
-    background: #ccc;
+    background: rgb(250, 103, 250);
     height: 60px;
     line-height: 60px;
 }
